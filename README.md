@@ -26,7 +26,7 @@ You can get some details on domains [https://www.iana.org/domains/root/files](fr
 * https://ntldstats.com/tld
 * https://hostingtribunal.com/blog/tld-statistics/#gref
 * https://www.statista.com/statistics/265677/number-of-internet-top-level-domains-worldwide/
-
+* https://publicsuffix.org/
 
 https://ops.tips/blog/udp-client-and-server-in-go/
 
